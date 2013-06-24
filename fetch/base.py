@@ -13,6 +13,7 @@ class BaseFetcher(object):
 
     """
     def fetch(self, url, *args, **kwargs):
+        """Subclass must implement this method"""
         raise NotImplementedError
 
     @classmethod
