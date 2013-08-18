@@ -1,4 +1,4 @@
-SimpleSpider
+EZSpider
 ============
 
-A simple test codes to crawl around the internet.
+A easy implementation of spiders around the internet.
